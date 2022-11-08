@@ -1,0 +1,948 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>ghimireanil.com.np</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Writing and Editing Services, Preparation Classes" />
+	<meta name="keywords" content="Writing and Editing Services, Preparation Classes" />
+	<meta name="author" content="ghimireanil" />
+
+
+  	<!-- Facebook and Twitter integration -->
+	<meta property="og:title" content=""/>
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content=""/>
+	<meta property="og:site_name" content=""/>
+	<meta property="og:description" content=""/>
+	<meta name="twitter:title" content="" />
+	<meta name="twitter:image" content="" />
+	<meta name="twitter:url" content="" />
+	<meta name="twitter:card" content="" />
+
+	<!-- <link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,500,700,800" rel="stylesheet">	 -->
+	<link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700" rel="stylesheet">
+
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="css/animate.css">
+	<!-- Icomoon Icon Fonts-->
+	<link rel="stylesheet" href="css/icomoon.css">
+	<!-- Bootstrap  -->
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<!-- Flexslider  -->
+	<link rel="stylesheet" href="css/flexslider.css">
+
+	<!-- Theme style  -->
+	<link rel="stylesheet" href="css/style.css">
+
+	<!-- Modernizr JS -->
+	<script src="js/modernizr-2.6.2.min.js"></script>
+	<!-- FOR IE9 below -->
+	<!--[if lt IE 9]>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+
+	</head>
+	<body>
+
+	<div class="fh5co-loader"></div>
+
+	<div id="page">
+	<nav class="fh5co-nav" role="navigation">
+		<div class="top-menu">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-2">
+						<div id="fh5co-logo"><a href="index.html">ghimireanil.com.np<span>.</span></a></div>
+					</div>
+					<div class="col-xs-10 text-right menu-1">
+						<ul>
+							<li class="active"><a href="index.html">Home</a></li>
+							<li><a href="portfolio.html">Portfolio</a></li>
+							<li class="has-dropdown">
+								<a href="services.html">Services</a>
+								<ul class="dropdown">
+									<li><a href="#">Thesis Writing/Editing</a></li>
+									<li><a href="#">Statement Of Purpose Writing/Editing</a></li>
+									<li><a href="#">Preparation Classes</a></li>
+									<li><a href="#">Resources Archive</a></li>
+								</ul>
+							</li>
+							<li><a href="pronunciation.html">Pronunciation</a></li>
+							<li><a href="about.html">About</a></li>
+							<li><a href="contact.html">Contact</a></li>
+							<li class="btn-cta"><a href="#"><span>Login</span></a></li>
+						</ul>
+					</div>
+				</div>
+
+			</div>
+		</div>
+
+        </header><!-- #masthead -->    
+
+    
+	<div id="content" class="site-content">		
+        
+
+    <div class="splash splash7"><img src="../wp-content/themes/wp-english-lucy/inc/assets/images/splash7.png" /></div>
+    <div class="splash splash8"><img src="../wp-content/themes/wp-english-lucy/inc/assets/images/splash8.png" /></div>
+    <div class="splash splash9"><img src="../wp-content/themes/wp-english-lucy/inc/assets/images/splash9.png" /></div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+
+                <header class="entry-header text-center">
+                    <h1 class="entry-title chart-page-title">Phonemic Chart</h1>                </header><!-- .entry-header -->   
+
+                <div class="row">
+                    <div class="col-12 col-lg-8 offset-lg-2">
+                        <div class="entry-content text-center">
+                            
+<p>Learn all of the vowel and consonant sounds in British English (received pronunciation) with this free, interactive phonemic chart. </p>
+
+
+
+<p>Click on any sound or word to hear my pronunciation.<br></p>
+                        </div><!-- .entry-content -->
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-12">
+
+                        <div id="phonemic_chart_container">
+                            
+                                                        <div class="chart-row">
+
+                                <div class="chart-title">Vowels</div>
+
+                                <div class="chart-content">
+
+                                    <div class="row">
+
+                                                                                <div class="col-12 col-lg-6">
+                                            <div class="vowels-title">Monophthongs</div>
+                                                
+                                            <ul class="phonemic-chart monophthongs">
+                                                                                                <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">i:</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/1.-iː-sleep-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>sleep</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/1.-iː-sleep-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">ɪ</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/1.-slip-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>slip</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/1.-slip-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">ʊ</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/3.-good-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>good</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/3.-good-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">u:</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/4.-food-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>food</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/4.-food-2-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">e</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/5.-ten-1-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>ten</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/5.-ten-2-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">ə</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/6.-better-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>better</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/6.-better-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">ɜ:</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/7.-word-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>word</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/7.-word-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">ɔ:</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/8.-more-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>more</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/8.-more-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">æ</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/9.-tap-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>tap</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/9.-tap-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">ʌ</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/10.-cup-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>cup</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/10.-cup-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">ɑ:</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/11.-bar-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>bar</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/11.-bar-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">ɒ</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/12.-gone-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>gone</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/12.-gone-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                        
+                                            </ul>
+
+                                        </div><!-- .col-6 -->
+                                                                                
+                                                                                <div class="col-12 col-lg-6">
+                                            <div class="vowels-title">Diphthongs</div>
+
+                                            <ul class="phonemic-chart diphthongs">
+                                                                                                <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">ɪə</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/13.-hear-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>hear</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/13.-hear-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">eɪ</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/14.-game-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>game</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/14.-game-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">ʊə</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/15.-pure-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>pure</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/15.-pure-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">ɔɪ</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/16.-toy-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>toy</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/16.-toy-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">əʊ</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/17.-no-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>no</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/17.-no-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">eə</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/18.-where-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>where</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/18.-where-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">aɪ</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/19.-mine-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>mine</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/19.-mine-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">aʊ</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/20.-how-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>how</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/20.-how-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                        
+                                            </ul>
+
+                                        </div><!-- .col-6 -->
+                                        
+                                    </div><!-- .row -->
+
+                                </div><!-- .chart-content -->
+
+                            </div><!-- .chart-row -->
+                                                        
+                                                        <div class="chart-row">
+
+                                <div class="chart-title">Consonant</div>
+
+                                <div class="chart-content">
+
+                                    <div class="row">
+
+                                        <div class="col-12">
+
+                                            <ul class="phonemic-chart">
+                                                                                                <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">p</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/21.-pen-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>pen</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/21.-pen-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">f</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/22.-fig-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>fig</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/22.-fig-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">t</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/23.-tip-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>tip</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/23.-tip-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">θ</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/24.-thought-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>thought</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/24.-thought-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">ʧ</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/25.-chip-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>chip</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/25.-chip-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">s</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/26.-save-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>save</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/26.-save-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">ʃ</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/27.-sure-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>sure</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/27.-sure-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">k</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/28.-cat-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>cat</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/28.-cat-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">b</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/29.-bit-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>bit</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/29.-bit-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">v</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/30.-vase-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>vase</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/30.-vase-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">d</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/31.-done-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>done</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/31.-done-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">ð</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/32.-those-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>those</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/32.-those-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">ʤ</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/33.-jam-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>jam</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/33.-jam-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">z</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/34.-zoo-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>zoo</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/34.-zoo-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">ʒ</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/35.-vision-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>vision</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/35.-vision-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">g</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/36.-goal-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>goal</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/36.-goal-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">h</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/37.-him-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>him</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/37.-him-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">m</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/38.-may-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>may</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/38.-may-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">n</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/39.-not-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>not</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/39.-not-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">ŋ</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/40.-sing-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>sing</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/40.-sing-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">r</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/41.-reach-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>reach</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/41.-reach-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">l</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/42-lie-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>lie</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/42-lie-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">w</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/43.-will-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>will</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/43.-will-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li class="sound-box">
+                                                        <div class="box-wrapper">
+                                                            <!-- Text and Sound -->
+                                                                                                                            <div class="text">j</div>
+                                                                                                                                    <audio class="text-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/44.-yet-1.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                        
+                                                            <!-- Word and Sound -->
+                                                                                                                            <div class="word"><p>yet</p>
+</div>                            
+                                                                                                                                    <audio class="word-sound" preload="none">
+                                                                        <source src="https://englishwithlucy.co.uk/wp-content/uploads/2020/10/44.-yet-2.m4a" type="audio/mpeg">
+                                                                    </audio>
+                                                                                                                                                                                    </div>
+                                                    </li>
+                                                                        
+                                            </ul>
+
+                                        </div><!-- .col-12 -->
+                                        
+                                    </div><!-- .row -->
+
+                                </div><!-- .chart-content -->
+
+                            </div><!-- .chart-row -->
+                                                        
+                        </div><!-- #phonemic_chart_container -->
+
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-12 col-lg-8 offset-lg-2 pt-5 pb-5">
+                        <h3 class="text-center">The 44 sounds of Received Pronunciation. This layout was created by Adrian Underhill and is the best I've seen to this day. Adrian's work can be found here: <a target="_blank" href="https://www.adrianunderhill.com/">www.adrianunderhill.com</a></h3>
+                    </div>
+                </div>
+
+            </div><!-- .col-12 -->
+        </div><!-- .row -->
+      
+    </div><!-- .container -->   
+
+		<!-- Social Section-->
+		
+	</div><!-- #content -->
+	
+			<footer id="colophon" class="site-footer navbar-light" role="contentinfo">
+			<div class="container">
+				        <div id="footer-widget" class="row">
+            <div class="container">
+                <div class="row">
+                                            <div class="col-12 col-lg-3"><section id="text-2" class="widget widget_text"><h3 class="widget-title">ENGLISH WITH LUCY</h3>			<div class="textwidget"></div>
+		</section></div>
+                                                                <div class="col-12 col-lg-3"><section id="text-5" class="widget widget_text"><h3 class="widget-title">RESOURCES</h3>			<div class="textwidget"><p><a href="index.html">Phonemic Chart</a></p>
+</div>
+		</section></div>
+                                                        </div>
+            </div>
+        </div>
+
+
+				<div class="copyright">
+					&copy; 2022 Website by <a href="https://langpreneur.com/">Langpreneur</a>					<span class="sep">. All right Reserved</span>
+				</div><!-- .copyright -->
+			</div>
+		</footer><!-- #colophon -->
+	
+	
+</div><!-- #page -->
+
+<script type='text/javascript' id='convertkit-broadcasts-js-extra'>
+/* <![CDATA[ */
+var convertkit_broadcasts = {"ajax_url":"https:\/\/englishwithlucy.co.uk\/wp-admin\/admin-ajax.php","action":"convertkit_broadcasts_render","debug":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../wp-content/plugins/convertkit/resources/frontend/js/broadcastsab84.js?ver=1.9.7.9' id='convertkit-broadcasts-js'></script>
+<script type='text/javascript' src='../wp-includes/js/dist/vendor/regenerator-runtime.min3937.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='../wp-includes/js/dist/vendor/wp-polyfill.min2c7c.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/englishwithlucy.co.uk\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../wp-content/plugins/contact-form-7/includes/js/index40df.js?ver=5.6' id='contact-form-7-js'></script>
+<script type='text/javascript' id='convertkit-js-js-extra'>
+/* <![CDATA[ */
+var convertkit = {"ajaxurl":"https:\/\/englishwithlucy.co.uk\/wp-admin\/admin-ajax.php","debug":"","nonce":"e081e806fb","subscriber_id":"0","tag":"","post_id":"86"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../wp-content/plugins/convertkit/resources/frontend/js/convertkitab84.js?ver=1.9.7.9' id='convertkit-js-js'></script>
+<script type='text/javascript' src='../wp-content/themes/wp-english-lucy/inc/assets/js/popper.minf049.js?ver=6.0' id='wp-english-lucy-popper-js'></script>
+<script type='text/javascript' src='../wp-content/themes/wp-english-lucy/inc/assets/js/bootstrap.minf049.js?ver=6.0' id='wp-english-lucy-bootstrapjs-js'></script>
+<script type='text/javascript' src='../wp-content/themes/wp-english-lucy/inc/assets/js/theme-script.minf049.js?ver=6.0' id='wp-english-lucy-themejs-js'></script>
+<script type='text/javascript' src='../wp-content/themes/wp-english-lucy/inc/assets/js/skip-link-focus-fix.min4a7d.js?ver=20151215' id='wp-english-lucy-skip-link-focus-fix-js'></script>
+<script type='text/javascript' src='../wp-content/themes/wp-english-lucy/inc/assets/js/customf049.js?ver=6.0' id='wp-english-lucy-custom-js-js'></script>
+</body>
+
+<!-- Mirrored from englishwithlucy.co.uk/phonemic-chart/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 04 Jul 2022 17:33:50 GMT -->
+</html>
