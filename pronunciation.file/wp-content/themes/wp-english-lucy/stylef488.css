@@ -44,7 +44,7 @@ Tags: blog, custom-menu, featured-images, threaded-comments, translation-ready, 
 }
 
 @font-face {
-  src: url(inc/assets/fonts/Voces-Regular.ttf);  
+  src: url(inc/assets/fonts/Voces-Regular.ttf);
   font-family: 'Voces';
 }
 
@@ -238,7 +238,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 32px;  
+  font-size: 32px;
 }
 
 h2 {
@@ -262,14 +262,14 @@ p {
   line-height: 1.75rem;
 }
 
-.entry-title {  
+.entry-title {
   font-size: 2.5rem;
   font-weight: 700;
-  line-height: 1;  
-  margin-bottom: 0;  
+  line-height: 1;
+  margin-bottom: 0;
 }
 
-.entry-content {  
+.entry-content {
   margin: 1rem 0 0;
 }
 
@@ -306,7 +306,7 @@ table {
 # Forms
 --------------------------------------------------------------*/
 .form-control {
-  color: #2e2e2e;
+  color: #000000;
   font-size: 1rem;
   padding: 1.125rem 1.75rem;
   height: auto;
@@ -321,8 +321,8 @@ table {
 }
 
 .btn-primary:hover,
-.btn-primary:not(:disabled):not(.disabled).active, 
-.btn-primary:not(:disabled):not(.disabled):active, 
+.btn-primary:not(:disabled):not(.disabled).active,
+.btn-primary:not(:disabled):not(.disabled):active,
 .show>.btn-primary.dropdown-toggle {
   color: #fff;
   background-color: #d92525;
@@ -354,7 +354,7 @@ table {
   text-align: left;
 }
 
-.wpcf7 form.invalid .wpcf7-response-output, 
+.wpcf7 form.invalid .wpcf7-response-output,
 .wpcf7 form.unaccepted .wpcf7-response-output {
   border: none;
   color: #fff;
@@ -381,7 +381,7 @@ header#masthead {
   background-repeat: no-repeat !important;
   position: relative;
   width: 100%;
-  height: calc(100vh - 6.5rem); 
+  height: calc(100vh - 6.5rem);
   margin-bottom: -2.25rem;
 }
 
@@ -402,7 +402,7 @@ header#masthead {
   position: absolute;
   bottom: 0;
   right: 0;
-  margin: 0; 
+  margin: 0;
   width: 22.5rem;
 }
 
@@ -426,7 +426,7 @@ header#masthead {
 
 @media screen and (min-width: 1200px) {
   .banner-img figure {
-    width: 55.5rem;       
+    width: 55.5rem;
   }
 }
 
@@ -541,7 +541,7 @@ header#masthead {
 @media screen and (max-width: 1199px) {
   #page-sub-header,
   .banner-content {
-    max-height: 43.75rem; 
+    max-height: 43.75rem;
   }
 }
 
@@ -618,7 +618,7 @@ body:not(.theme-preset-active) #masthead .navbar-nav > li.menu-button > a:hover 
   body:not(.theme-preset-active) #masthead .navbar-nav > li.menu-button {
     padding: 0.875rem 1.125rem;
   }
-  
+
   body:not(.theme-preset-active) #masthead .navbar-nav > li.menu-button > a {
     background-color: transparent;
     border: none;
@@ -626,7 +626,7 @@ body:not(.theme-preset-active) #masthead .navbar-nav > li.menu-button > a:hover 
     color: #fff;
     font-size: 1rem;
     padding: 0;
-    text-align: left;    
+    text-align: left;
   }
 
   #main-nav {
@@ -1371,7 +1371,7 @@ footer#colophon {
 
 #newsletter {
   background-color: #2d347c;
-  clip-path: polygon(0 2.25rem, 100% 0, 100% calc(100% - 2.25rem), 0 100%);  
+  clip-path: polygon(0 2.25rem, 100% 0, 100% calc(100% - 2.25rem), 0 100%);
   padding-top: 5.625rem;
   padding-bottom: 5.625rem;
 }
@@ -1553,22 +1553,22 @@ footer#colophon {
 #resources .content,
 #lessons .content {
   flex-wrap: wrap;
-  margin-bottom: 0;  
+  margin-bottom: 0;
 }
 
 #resources .content .resource,
 #lessons .content .lesson {
-  padding: 0 0.9375rem;  
+  padding: 0 0.9375rem;
   flex: 0 0 100%;
   margin-bottom: 2rem;
 }
 
-#resources .content .resource {  
-  text-align: center;  
+#resources .content .resource {
+  text-align: center;
 }
 
 #resources .content .resource .post-wrapper {
-  background-color: #fff;  
+  background-color: #fff;
   padding: 1rem 1rem 2rem 1rem;
 }
 
@@ -1586,11 +1586,11 @@ footer#colophon {
 @media only screen and (min-width: 992px) {
   #resources .content,
   #lessons .content {
-    flex-wrap: initial;    
+    flex-wrap: initial;
   }
 
   #resources .content {
-    flex-wrap: initial;    
+    flex-wrap: initial;
   }
 
   #resources .content .resource,
@@ -1604,7 +1604,7 @@ footer#colophon {
   #lessons .content .lesson:first-child {
     padding-left: 0;
   }
-  
+
   #resources .content .resource:last-child,
   #lessons .content .lesson:last-child {
     padding-right: 0;
@@ -1629,7 +1629,7 @@ footer#colophon {
 }
 
 #resources .content .resource .entry-header {
-  text-align: center;  
+  text-align: center;
 }
 
 #resources .content .resource .entry-header .entry-title {
@@ -1720,7 +1720,7 @@ footer#colophon {
   padding-bottom: 5rem;
 }
 
-#socials {  
+#socials {
   background-image: url(inc/assets/images/connect_bg.png);
   background-repeat: no-repeat;
   background-position: center top;
@@ -1810,7 +1810,7 @@ footer#colophon {
   font-family: 'Caroline', sans-serif;
   font-size: 6.5rem;
   margin: 0 0 2.5rem 0;
-  position: relative;  
+  position: relative;
   display: inline-block;
 }
 
@@ -1870,7 +1870,7 @@ footer#colophon {
   width: 100%;
   height: 3.125rem;
   line-height: 3.125rem;
-  text-align: center;  
+  text-align: center;
 }
 
 .chart-row .chart-content .row {
@@ -1886,22 +1886,22 @@ footer#colophon {
 ul.phonemic-chart {
   margin: 0;
   padding: 0.6875rem 0;
-  list-style: none;  
+  list-style: none;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
 
-ul.phonemic-chart li {  
+ul.phonemic-chart li {
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  color: #fff;  
+  color: #fff;
   font-family: Times;
   text-align: center;
-  padding: 0.6875rem;  
-  width: 25%;  
+  padding: 0.6875rem;
+  width: 25%;
   z-index: 2;
 }
 
@@ -1921,7 +1921,7 @@ ul.phonemic-chart li {
 
 ul.phonemic-chart li .box-wrapper {
   background-color: #2e2e2e;
-  width: 100%;  
+  width: 100%;
   height: 5.9375rem;
   display: flex;
   align-items: center;
@@ -1930,16 +1930,16 @@ ul.phonemic-chart li .box-wrapper {
 }
 
 ul.phonemic-chart.monophthongs li .box-wrapper {
-  background-color: #1c2a95;
+  background-color: #437500;
 }
 
 ul.phonemic-chart.diphthongs li .box-wrapper {
-  background-color: #d92526;
+  background-color: #020091;
 }
 
-ul.phonemic-chart li .text {  
+ul.phonemic-chart li .text {
   cursor: pointer;
-  font-family: "Voces";    
+  font-family: "Voces";
   font-size: 2.5rem;
   line-height: 3rem;
   margin-bottom: 0.5rem;
